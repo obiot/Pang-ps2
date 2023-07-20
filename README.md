@@ -41,5 +41,5 @@ Enhancements/Modifications :
 
 Credits:
 --------
-michel louvet for sharing it's source code.
-gawd for the SDL library port on the ps2.
+Michel Louvet for sharing it's source code
+[Gil Megidish](https://github.com/gmegidish) for the SDL library port on the ps2
